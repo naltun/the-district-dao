@@ -4,8 +4,8 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
-  color: #fff;
+  background-color: #FBFAFB;
+  color: #EA1029;
   overflow-x: hidden;
 }
 #root {
@@ -116,8 +116,8 @@ h1 {
 
 button {
   cursor: pointer;
-  background-color: #000;
-  color: #fff;
+  background-color: #EA1029D1;
+  color: #FBFAFB;
   border: none;
   font-weight: bold;
   font-family: inherit;
@@ -128,7 +128,7 @@ button {
 }
 
 button:hover {
-  background-color: #121212;
+  background-color: #EA1029EB;
 }
 
 button:focus {
